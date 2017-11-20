@@ -11,4 +11,4 @@ while True:
 		break;
 	addrclient.sendall(data);
 addrclient.close();
-
+s.close()
